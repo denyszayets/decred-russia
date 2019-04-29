@@ -1,1 +1,3 @@
-# decred-russia
+# Decred-RU
+
+Translations, Articles and Terminology
